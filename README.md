@@ -9,7 +9,7 @@ HANNAN ANSARI
 ```
 git clone https://github.com/Hannan-404/COMPILE-CYTHON
 cd COMPILE-CYTHON
-python CYTHON.py
+python2 CYTHON.py
 ```
 
 # Thanks For Using ❤️🙂
